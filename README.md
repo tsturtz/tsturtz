@@ -1,16 +1,44 @@
-### Hi there 👋
+# Hello.
 
-<!--
-**tsturtz/tsturtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+ _________________________________
+( I'm not just a regular coder,   )
+( I'm a cool coder.               )
+ ---------------------------------
+   o
+    o
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+```
 
-Here are some ideas to get you started:
+### Some fun emojis to describe me:
+👨‍👩‍👧‍👦 ⚽️ 👨‍💻 🧩 🏃 🎧 🌶
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_(see? that was cool already)_
+
+### Work, work:
+I work at `Blizzard Entertainment` in `Irvine, California` as a `Senior Software Engineer`.
+
+### My day to day tech stack:
+- Browser tech
+- TypeScript/React
+- Java/Spring
+- SQL
+
+### Other programming languages, frameworks, etc. that I like, sorted by familiarity:
+- Node
+- PHP and Laravel
+- Angular with a lot of experience in the old AngularJS
+- React Native
+- Golang
+- C++
+
+### More...
+- [taylorsturtz.com](https://taylorsturtz.com)
+- [twitter](https://twitter.com/taylorsturtz)
+- [linkedin](https://linkedin.com/in/taylorsturtz)
