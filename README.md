@@ -30,7 +30,7 @@ I work at `Blizzard Entertainment` in `Irvine, California` as a `Senior Software
 - Java/Spring
 - SQL
 
-### Other programming languages, frameworks, etc. that I use/like, sorted by familiarity:
+### Other programming languages, frameworks, etc. that I use, sorted by familiarity:
 - Node
 - PHP and Laravel
 - Angular with a lot of experience in the old AngularJS
