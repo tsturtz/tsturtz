@@ -1,5 +1,3 @@
-# Hello.
-
 ```
  _________________________________
 ( I'm not just a regular coder,   )
