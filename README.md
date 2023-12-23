@@ -16,7 +16,7 @@
 ### Work, work
 I work at `Blizzard Entertainment` in `Irvine, California` as a `Senior Software Engineer`.
 
-### My day to day tech stack
+### Day to day tech stack
 - TypeScript/React
 - Java/Spring
 
