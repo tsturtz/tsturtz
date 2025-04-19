@@ -19,13 +19,7 @@ I work at `Blizzard Entertainment` in `Irvine, California` as a `Senior Software
 ### Day to day tech stack
 - TypeScript/React
 - Java/Spring
-
-### Recent side stacks
-- Tailwind
-- Svelte
-- NextJS
-- Fastify
-- FastAPI
+- AWS
 
 ### More...
 - [taylorsturtz.com](https://taylorsturtz.com)
